@@ -7,7 +7,6 @@ public class Solution {
                 nums[j + 1] = nums[i];
             }
         }
-
         return j + 1;
     }
 }
